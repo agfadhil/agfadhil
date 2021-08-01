@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ReactJS and Flutter
 - 💞️ I’m looking to collaborate on awesome projects
-- 📫 How to reach me : hi@afadhil.com or merffadhil@ymail.com
+- 📫 How to reach me : merffadhil@ymail.com
 
 <!---
 afadhil/afadhil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
