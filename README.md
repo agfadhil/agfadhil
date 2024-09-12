@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @afadhil
+- 👋 Hi, I’m @agfadhil
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ReactJS and Flutter
+- 🌱 I’m currently learning ReactJS and NextJS
 - 💞️ I’m looking to collaborate on awesome projects
-- 📫 How to reach me : merffadhil@ymail.com
+- 📫 How to reach me : fadhilworkspace@gmail.com
 
 <!---
 afadhil/afadhil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
