@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agfadhil
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ReactJS and NextJS
+- 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me : fadhilworkspace@gmail.com
 
