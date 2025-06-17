@@ -49,7 +49,7 @@
 
 ###
 
-<h1 align="center">🔥 My Stats :</h1>
+<h1 align="center">🔥 My Stats</h1>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=agfadhil&theme=vue" alt="GitHub Streak" />
 </div>
