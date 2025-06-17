@@ -22,9 +22,9 @@
 
 <h1 align="center">
   👋🏻 Hey There! ~
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=agfadhil.agfadhil&right_color=limegreen" alt="visitor counter"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=agfadhil.agfadhil&left_color=teal&right_color=mediumseagreen" alt="visitor counter"/>
 </h1>
-<p align="justify">I’m a code-slinging (as a <strong>Software Developer</strong>), bug-squashing wizard who turns caffeine into features and chaos into clean commits. As a <strong>Project Manager</strong>, I juggle timelines, egos, and Slack pings like it’s a sport, while running a business keeps me sharp, scrappy, and constantly evolving. I live at the messy, exciting crossroads of creativity and logic—where ideas turn into products and “wait… did we deploy to prod?” is a weekly mantra. Through it all, I stay <strong>Human</strong>: I celebrate small wins, learn from late nights, and never say no to good coffee or great Wi-Fi.</p>
+<p align="justify">I’m a code-slinging (as a <strong>Software Engineer</strong>), bug-squashing wizard who turns caffeine into features and chaos into clean commits. As a <strong>Project Manager</strong>, I juggle timelines, egos, and Slack pings like it’s a sport, while running a business keeps me sharp, scrappy, and constantly evolving. I live at the messy, exciting crossroads of creativity and logic—where ideas turn into products and “wait… did we deploy to prod?” is a weekly mantra. Through it all, I stay <strong>Human</strong>: I celebrate small wins, learn from late nights, and never say no to good coffee or great Wi-Fi.</p>
 
 ###
 
@@ -51,7 +51,7 @@
 
 <h1 align="center">🔥 My Stats :</h1>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=agfadhil&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=agfadhil&theme=vue" alt="GitHub Streak" />
 </div>
 
 ###
