@@ -61,13 +61,12 @@
 
 <h1 align="center">🔥 My Stats</h1>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=agfadhil&theme=vue" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=agfadhil&theme=vue-dark" alt="GitHub Streak" />
 </div>
 
 ###
 
 <h1 align="center">🪵 My Logs</h1>
-<!-- <img src="https://raw.githubusercontent.com/agfadhil/agfadhil/output/snake.svg" alt="Snake animation" /> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agfadhil/agfadhil/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agfadhil/agfadhil/output/pacman-contribution-graph.svg">
