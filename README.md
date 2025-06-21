@@ -1,4 +1,3 @@
-<!-- <img height="175" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VqZG1zYjllZmhzdXVmNmxiNzA3bTZ3ZHhyaDh3Ymk0YXV3djV5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3pHrwP0Lg9t8NqiLWY/giphy.gif" /> -->
 <p align="center">
   <a href="https://agfadhil.vercel.app" target="_blank"><img src="assets/images/banner-resume-portfolio.png" 
   alt="My Banner" /></a>
@@ -73,4 +72,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/agfadhil/agfadhil/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+<div align="center">
+  <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5sdHVmbGEyeTJ5OWR2ZWZmbHhqb2oyOHI0dHpwemlqZzJiemEzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXLpxypfSXvUc/giphy.gif">
+</div>
