@@ -61,7 +61,7 @@
 
 <h1 align="center">🔥 My Stats</h1>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=agfadhil&theme=vue-dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=agfadhil&theme=dark" alt="GitHub Streak" />
 </div>
 
 ###
