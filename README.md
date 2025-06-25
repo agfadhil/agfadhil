@@ -60,7 +60,7 @@
 
 <h1 align="center">🔥 My Stats</h1>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=agfadhil" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=agfadhil&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ###
@@ -75,5 +75,6 @@
 ---
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko">
   <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5sdHVmbGEyeTJ5OWR2ZWZmbHhqb2oyOHI0dHpwemlqZzJiemEzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXLpxypfSXvUc/giphy.gif">
 </div>
