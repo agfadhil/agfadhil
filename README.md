@@ -60,7 +60,7 @@
 
 <h1 align="center">🔥 My Stats</h1>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=agfadhil&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=agfadhil&theme=vue&border_radius=10" alt="GitHub Streak" /></a>
 </div>
 
 ###
