@@ -28,7 +28,7 @@
 ###
 
 <h1 align="center">👨🏻‍💻 My Tech Stacks</h1>
-<div>
+<div align="NGAPAIN BAPAK KAU NENGOK CODE INI!!">
   <!-- Framework -->
   <div align="center">
     <img src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82" alt="nuxtjs logo" />
@@ -49,6 +49,14 @@
     <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="nodejs logo" />
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="python logo" />
   </div>
+  <!-- Database -->
+  <div align="center">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="mongodb logo" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="mysql logo" />
+    <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="postgres logo" />
+    <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" alt="redis logo" />
+    <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff" alt="supabase logo" />
+  </div>
   <!-- Utils -->
   <div align="center">
     <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="tailwind css logo" />
@@ -64,6 +72,7 @@
   <div align="center">
     <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" alt="notion logo" />
     <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" alt="power bi logo" />
+    <img src="https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black" alt="bruno logo" />
   </div>
   <!-- OS -->
   <div align="center">
