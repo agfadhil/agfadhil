@@ -85,7 +85,13 @@
 
 <h1 align="center">🔥 My Stats</h1>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=agfadhil&theme=vue&border_radius=10" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=agfadhil&theme=vue-dark&border_radius=10" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=agfadhil&theme=vue&border_radius=10" />
+      <img src="https://streak-stats.demolab.com?user=agfadhil&theme=vue&border_radius=10" alt="GitHub Streak" />
+    </picture>
+  </a>
 </div>
 
 ###
@@ -97,11 +103,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/agfadhil/agfadhil/output/pacman-contribution-graph.svg">
 </picture>
 
----
----
----
+###
 
+<h1 align="center">🍵 Yuhuuuu~</h1>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko">
-  <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5sdHVmbGEyeTJ5OWR2ZWZmbHhqb2oyOHI0dHpwemlqZzJiemEzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXLpxypfSXvUc/giphy.gif">
+  <a href="https://agfadhil.vercel.app" target="_blank">
+    <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5sdHVmbGEyeTJ5OWR2ZWZmbHhqb2oyOHI0dHpwemlqZzJiemEzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXLpxypfSXvUc/giphy.gif">
+  </a>
 </div>
