@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://agfadhil.vercel.app" target="_blank"><img src="assets/images/banner-resume-portfolio.png" 
+  <a href="https://agfadhil.my.id" target="_blank"><img src="assets/images/banner-resume-portfolio.png" 
   alt="My Banner" /></a>
 </p>
 
@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/agungfadhil/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
   </a>
-  <a href="https://agfadhil.vercel.app" target="_blank">
+  <a href="https://agfadhil.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio logo" />
   </a>
   <a href="mailto:fadhilworkspace@gmail.com" target="_blank">
@@ -108,7 +108,7 @@
 <h1 align="center">🍵 Yuhuuuu~</h1>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko">
-  <a href="https://agfadhil.vercel.app" target="_blank">
+  <a href="https://agfadhil.my.id" target="_blank">
     <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5sdHVmbGEyeTJ5OWR2ZWZmbHhqb2oyOHI0dHpwemlqZzJiemEzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXLpxypfSXvUc/giphy.gif">
   </a>
 </div>
